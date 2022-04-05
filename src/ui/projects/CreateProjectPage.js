@@ -123,7 +123,7 @@ export default function CreateProjectPage({ history, location }) {
                 </ProjectGridHeaderRow>
                 <ProjectGridHeaderRow>
                   <Button as={Link} to="/scenes/new">
-                    Import From Blender modified
+                    Import From Blender modd
                   </Button>
                   <Button as={Link} to="/projects/new">
                     New Empty Project
